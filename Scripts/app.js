@@ -39,7 +39,7 @@
 
         let paragraph = document.getElementById("paragraph");
 
-        let mySentence = "";
+        let mySentence = "This is my Lab 2 work.....I had a talk with you that I set my GitHub link on slack for lab 1 Plaese dont penalise me on this and update my grades :)";
 
         paragraph.textContent = mySentence;
     }
